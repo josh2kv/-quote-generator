@@ -1,9 +1,10 @@
 # 명언 생성기
 
 ## 1. 소개 및 특징
-- 명언을 freeAPI에서 데이터를 받아 출력 (https://forismatic.com/en/)
-- 출력된 명언을 Tweet 할 수 있는 버튼과 새로운 명언을 출력하는 버튼
+- freeAPI에서 명언데이터를 무작위로 받아 출력 (https://forismatic.com/en/)
+- 출력된 명언을 트윗할 수 있는 버튼과 새로운 명언을 출력하는 버튼
 - Loading Spinner 삽입
+- 반응형
 
 ## 2. 사용기술
 - HTML
@@ -17,3 +18,6 @@
 
 
 https://josh2kv.github.io/-quote-generator/
+
+![image](https://user-images.githubusercontent.com/79514508/114312947-2f1daa80-9aba-11eb-852a-664d43286879.png)
+
